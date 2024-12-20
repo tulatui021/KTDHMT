@@ -1,0 +1,12 @@
+﻿  BTCK.cpp
+C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Baitapcuoiki\BTCK.cpp(771,24): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Baitapcuoiki\BTCK.cpp(789,26): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Baitapcuoiki\BTCK.cpp(815,21): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Baitapcuoiki\BTCK.cpp(824,22): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Baitapcuoiki\BTCK.cpp(833,22): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Baitapcuoiki\BTCK.cpp(856,23): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Baitapcuoiki\BTCK.cpp(865,24): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Baitapcuoiki\BTCK.cpp(874,24): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Baitapcuoiki\BTCK.cpp(962,33): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Baitapcuoiki\BTCK.cpp(975,35): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+  Baitapcuoiki.vcxproj -> C:\Users\Acer\Documents\Zalo Received Files\Baitapcuoiki\Debug\Baitapcuoiki.exe
